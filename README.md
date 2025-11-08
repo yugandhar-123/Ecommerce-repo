@@ -1,2 +1,2 @@
 # Ecommerce website-repo
-practice javascript Ecommerce1
+practice javascript Ecommerce12
