@@ -1,2 +1,2 @@
-# Ecommerce-repo
+# Ecommerce website-repo
 practice javascript Ecommerce
